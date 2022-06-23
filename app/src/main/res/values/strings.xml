@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">task in first season</string>
+    <string name="hr">3 hr</string>
+    <string name="abdulaziz_komity">Abdulaziz Komity</string>
+    <string name="eng">Engineer</string>
+    <string name="uk">UK</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="image_of_profile">profile</string>
+    <string name="russian">Russian</string>
+    <string name="days_ago">5 Days ago</string>
+    <string name="icon_star">TODO</string>
+    <string name="rate">4.5</string>
+</resources>
